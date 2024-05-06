@@ -55,6 +55,7 @@ print(scores.mean())
 
 # ça permet de mieux choisir les paramètres en fonction du niveau de validation
 # bien entendu, au final, on va tester le modèle sur toutes les données, on ne va pas en laisser une partie de côté, mais ça permet de vérifier
+# blablabla test github
 
 
 
