@@ -1,0 +1,118 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    background-color: cadetblue;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23),;
+    font-family: Arial, sans-serif;
+    font-size: 4pc;
+    padding: 10px;
+    margin-left: 480px;
+    margin-right: 480px;
+    color: white ;
+
+}
+
+h3 {
+    background-color: azure;
+    color: cadetblue;
+    font-family: Arial, sans-serif;
+    font-size: 2pc;
+    text-align: center;
+    margin-bottom: 40px;
+    }
+
+
+    h4 {
+        text-align: center;
+        color: indigo;
+        text-decoration: underline;
+        margin-top: 50px;   
+    }
+
+label {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+    padding: 2px;
+    margin: 2px; 
+    margin-left: 120px ;
+
+}
+
+span {
+    color: black;
+}
+
+.border {
+    border: 1px solid black ;
+    padding: 20px;
+    margin: 10px 20px;
+}
+
+.user-select-none {
+    margin: 20px;
+    background-color: cadetblue;
+ 
+}
+
+.js-plotly-plot {
+    margin-left: 480px;
+    margin-right: 480px;
+}
+
+.main-svg {
+    width: 960px;
+    padding-left: 140px;
+}
+
+.rc-slider-dot {
+    background-color: cadetblue;
+
+
+}
+
+.rc-slider-rail {
+    background-color : indigo;
+}
+
+.rc-slider-track {
+    background-color: cadetblue;
+}
+
+.rc-slider-mark {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+}
+
+#container1 {
+    background-color: azure;
+    border-style: solid;
+    border-width: 1px;
+    margin: 20px;
+    margin-left: 480px;
+    margin-right: 480px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#country-graph {
+    background-color: azure;
+}
+
+
+#y-axis {
+    direction: relative;
+}
+
+#slider {
+   color: black;
+    
+
+}
+
+
+
